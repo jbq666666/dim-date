@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="dim-date:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dim_date_jar</output-path>
+    <root id="root">
+      <element id="archive" name="dim-date.jar">
+        <element id="module-output" name="dim-date" />
+      </element>
+      <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.5" />
+      <element id="library" level="project" name="Maven: com.facebook.presto:presto-jdbc:0.161" />
+      <element id="library" level="project" name="Maven: org.jsoup:jsoup:1.12.1" />
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.47" />
+    </root>
+  </artifact>
+</component>

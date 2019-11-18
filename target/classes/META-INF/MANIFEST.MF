@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: commons-lang3-3.5.jar presto-jdbc-0.161.jar jsoup-1.12.1.j
+ ar mysql-connector-java-5.1.47.jar
+Main-Class: com.hexin.bigdata.generate.date.GenerateDateToMysql
+
